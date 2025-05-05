@@ -13,8 +13,7 @@ venv/
 uv.lock
 
 # Streamlit
-.streamlit/credentials.toml
-
+.streamlit/secrets.toml
 # IDEs
 .vscode/
 .idea/
