@@ -1,0 +1,9 @@
+[project]
+name = "ring-llms"
+version = "0.1.0"
+description = "Aplicación Streamlit creada con UV"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "streamlit>=1.40.1",
+]
